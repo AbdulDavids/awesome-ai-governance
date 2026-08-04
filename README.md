@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE)
 
-A curated list of resources for building, shipping, and auditing AI systems in regulated environments. Curated by [Aperintel](https://github.com/aperintel) and the community.
+A curated list of resources for building, shipping, and auditing AI systems in regulated environments. Curated by [Aperintelligence](https://github.com/aperintel) and the community.
 
 The focus is on AI governance practice: what regulated firms, healthcare operators, public-sector teams, and engineering teams need to evidence that the AI they ship is accountable, auditable, and defensible. Lighter-weight ethics commentary and academic-philosophy reading lists already exist elsewhere; this list is the practitioner's bookmark folder.
 
